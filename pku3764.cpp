@@ -1,7 +1,7 @@
 #include<iostream>
 #include<cstring>
 using namespace std;
-const int maxn=1e5+100;
+const int maxn=1e6+100;
 int n,u,v,w;
 int ch[maxn][2],tot=1;
 int head[maxn],cnt;
